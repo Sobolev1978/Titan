@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'MullerRegular';
+  src: url('MullerRegular.svg#MullerRegular') format('svg'),
+       url('MullerRegular.ttf') format('truetype'),
+       url('MullerRegular.woff') format('woff'),
+       url('MullerRegular.eot'),
+       url('MullerRegular.eot?#iefix') format('embedded-opentype'),
+       url('MullerRegular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MullerBold';
+  src: url('MullerBold.svg#MullerBold') format('svg'),
+       url('MullerBold.ttf') format('truetype'),
+       url('MullerBold.woff') format('woff'),
+       url('MullerBold.eot'),
+       url('MullerBold.eot?#iefix') format('embedded-opentype'),
+       url('MullerBold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MullerMedium';
+  src: url('MullerMedium.eot');
+  src: url('MullerMedium.eot?#iefix') format('embedded-opentype'),
+       url('MullerMedium.svg#MullerMedium') format('svg'),
+       url('MullerMedium.ttf') format('truetype'),
+       url('MullerMedium.woff') format('woff'),
+       url('MullerMedium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+}
